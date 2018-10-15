@@ -11,7 +11,7 @@ export default class App {
         this.data = {
             films: {},
             people: {},
-            ships: {},
+            starships: {},
         }
         this.dataContainer = document.getElementById('data-container');
     }
