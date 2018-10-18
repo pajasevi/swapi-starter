@@ -12,15 +12,15 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/pajasevi/swapi-starter/"
     },
     "keywords": [],
     "author": "Pavel Ševčík",
     "license": "UNLICENSED",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/pajasevi/swapi-starter/issues"
     },
-    "homepage": "",
+    "homepage": "https://pajasevi.github.io/swapi-starter/",
     "dependencies": {
         "normalize.css": "^8.0.0"
     },
